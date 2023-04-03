@@ -10,6 +10,9 @@ function Navbar() {
           <img src={logo} alt="" />
           <div class="nav-title">Rebook</div>
         </div>
+        <a className="profile" href="/profile" alt="">
+          Profile
+        </a>
         <div class="nav-btn">
           <label for="nav-check">
             <span></span>
@@ -37,8 +40,11 @@ function Navbar() {
           <a href="/" alt="">
             Schools
           </a>
-          <a href="/" alt="">
+          <a href="/contact" alt="">
             Contact
+          </a>
+          <a href="/organisation" alt="">
+            Organisations
           </a>
 
           <a href="/signup" alt="">

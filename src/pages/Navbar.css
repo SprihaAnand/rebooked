@@ -1,7 +1,9 @@
 * {
     box-sizing: border-box;
 }
-
+.profile{
+    padding-left: 2rem;
+}
 body {
     margin: 0px;
     font-family: 'segoe ui';
@@ -58,7 +60,7 @@ body {
     display: none;
 }
 
-@media (max-width:600px) {
+@media (max-width:1200px) {
     .nav>.nav-btn {
         display: inline-block;
         position: absolute;
