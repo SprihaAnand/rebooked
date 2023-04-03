@@ -19,29 +19,29 @@ function Navbar() {
         </div>
 
         <div class="nav-links">
-          <a href="/" target="_blank" alt="">
+          <a href="/" alt="">
             Home
           </a>
-          <a href="/" target="_blank" alt="">
+          <a href="/about" alt="">
             About
           </a>
-          <a href="/" target="_blank" alt="">
+          <a href="/exchange" alt="">
             Exchange
           </a>
-          <a href="/" target="_blank" alt="">
+          <a href="/rebook" alt="">
             Rebook
           </a>
-          <a href="/" target="_blank" alt="">
+          <a href="/" alt="">
             Donate
           </a>
-          <a href="/" target="_blank" alt="">
+          <a href="/" alt="">
             Schools
           </a>
-          <a href="/" target="_blank" alt="">
+          <a href="/" alt="">
             Contact
           </a>
 
-          <a href="/" target="_blank" alt="">
+          <a href="/signup" alt="">
             LogIn / Register
           </a>
         </div>

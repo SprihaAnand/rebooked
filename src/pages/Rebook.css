@@ -1,0 +1,166 @@
+.container {
+    display: flex;
+    justify-content: center;
+    color: #6e422d;
+}
+
+h1 {
+    padding: 5%;
+    color: #233449;
+}
+
+.tweet {
+    display: inline-block;
+    vertical-align: middle;
+    background: #e2dbd3;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+    border-radius: 40px;
+    padding: 32px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: left;
+    color: #6e422d;
+    margin: 16px;
+    max-width: 500px;
+    max-height: 500px;
+    cursor: pointer;
+    min-height: 500px;
+}
+
+.tweet:hover {
+    transform: scale(1.05) rotate(0.5deg);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.12);
+}
+
+.tweet .person {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.tweet .person img {
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin-right: 12px;
+}
+
+.tweet .person .details h4 {
+    font-weight: 700;
+    font-size: 16px;
+    color: #6e422d;
+    line-height: 20px;
+}
+
+.tweet .person .details h5 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6e422d;
+    opacity: 0.64;
+    margin-top: 2px;
+}
+
+.tweet p {
+    font-size: 18px;
+    color: #6e422d;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.tweet .controls {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+    color: #6e422d;
+}
+
+.animated {
+    transition: all 0.16s cubic-bezier(0.32, 0, 0.16, 1);
+}
+
+/****** GERAL ******/
+.content {
+    margin: 40px auto 0;
+    max-width: 1300px;
+    color: #6e422d;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 0;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: "Lato", Arial, sans-serif;
+    color: #6e422d;
+    font-size: 17px;
+
+}
+
+li {
+    list-style: none;
+    color: #6e422d;
+}
+
+a {
+    text-decoration: none;
+    color: #6e422d;
+}
+
+p {
+    margin-bottom: 1.5rem;
+    line-height: 1.5;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+/* Hides from IE-mac \*/
+* html .clearfix {
+    height: 1%;
+}
+
+.clearfix {
+    display: block;
+}
+.bookButton{
+    padding: .5rem;
+    background-color: azure;
+    border: 0px;
+    border-radius: 10px;
+    color: #6e422d;
+    font-size: large;
+    font-weight: bolder;
+    cursor:pointer;
+}
+.alt{
+    color: #233449;
+    font-weight: lighter;
+    font-size: medium;
+    padding-left: 3rem;
+}
