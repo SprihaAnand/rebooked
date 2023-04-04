@@ -16,7 +16,7 @@ function Rebook() {
               <img src={book1} alt="" />
               <div class="details">
                 <h4>Shadow Born</h4>
-                <h5>Donated By: ...</h5>
+                <h5>Donated By: Manya</h5>
                 <p>
                   NCERT Solutions for Class 10 Maths are solved by experts of
                   LearnCBSE.in in order to help students to obtain excellent
@@ -38,7 +38,7 @@ function Rebook() {
               <img src={book2} alt="" />
               <div class="details">
                 <h4>NCERT Science 10th</h4>
-                <h5>Donated By: ...</h5>
+                <h5>Donated By: Aryan</h5>
                 <p>
                   NCERT Books Class 10 Science: The National Council of
                   Educational Research and Training (NCERT) publishes Science
@@ -47,6 +47,7 @@ function Rebook() {
                   syllabus. The NCERT Science Books are based on the latest exam
                   pattern and CBSE syllabus.
                 </p>
+                <button className="bookButton">Book</button>
               </div>
             </div>
           </div>
@@ -56,7 +57,7 @@ function Rebook() {
             <img src={book3} alt="" />
             <div class="details">
               <h4>NCERT English X</h4>
-              <h5>Donated By: ...</h5>
+              <h5>Donated By: English CLub</h5>
               <p>
                 First Flight, a textbook in English for Class X, is based on the
                 new syllabus in English which was prepared as a follow-up to the
@@ -64,6 +65,7 @@ function Rebook() {
                 the 2022 Board Exams will come strictly from this NCERT Class 10
                 English (Footprints Without Feet and First Flight)
               </p>
+              <button className="bookButton">Book</button>
             </div>
           </div>
         </li>

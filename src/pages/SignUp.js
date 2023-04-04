@@ -91,6 +91,7 @@ function SignUp() {
             <form id="sign-up-form">
               <input type="text" placeholder="Name" />
               <input type="email" placeholder="Email" />
+              <input type="text" placeholder="School/Organisation" />
               <input type="password" placeholder="Password" />
               <button class="control-button up">Sign Up</button>
             </form>

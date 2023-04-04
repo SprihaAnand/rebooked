@@ -1,0 +1,208 @@
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 13px;
+}
+
+.profile-card {
+    margin: 20px;
+    width: 500px;
+    height: 250px;
+    font: 12px "Myriad Pro";
+}
+.Pcontainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.profile-card .profile-cover {
+    position: relative;
+    height: 122px;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.profile-card .profile-cover:hover {
+    filter: none;
+    filter: none;
+    -webkit-filter: none;
+
+}
+.profile-card .profile-cover .profile-avatar {
+    background: #ffffff;
+    border: 1px solid #eeeeee;
+    border: 5px solid #ffffff;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    margin: 25px auto 0;
+    overflow: hidden;
+    left: 0;
+    right: 0;
+-webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.profile-card .profile-cover .profile-avatar:hover {
+    margin-top: 23px;
+}
+
+.profile-card .profile-cover .profile-avatar .btns-container {
+    position: relative;
+}
+
+.profile-card .profile-cover .profile-avatar .btns-container .profile-links {
+    position: absolute;
+    top: 110px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    display: none;
+}
+
+.profile-card .profile-cover .profile-avatar .btns-container .profile-links a {
+    display: inline-block;
+    background: #ffffff;
+    text-decoration: none;
+    padding: 5px;
+}
+.profile-avatar img{
+    border-radius: 200px;
+}
+
+.profile-card .profile-cover .profile-avatar:hover {
+    margin-top: 23px;
+}
+
+.profile-card .profile-cover .profile-avatar .btns-container {
+    position: relative;
+}
+
+.profile-card .profile-cover .profile-avatar .btns-container .profile-links {
+    position: absolute;
+    top: 110px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    display: none;
+}
+
+.profile-card .profile-cover .profile-avatar .btns-container .profile-links a {
+    display: inline-block;
+    background: #ffffff;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.profile-card .profile-cover .profile-avatar .btns-container .profile-links a img {
+    display: block;
+}
+
+
+
+
+.profile-card .profile-cover .profile-details {
+    background: rgba(0, 0, 0, 0.4);
+    border-top: 1px solid rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px 0 7px;
+}
+
+.profile-card .profile-cover .profile-details h6 {
+    font-weight: normal;
+}
+
+.profile-card .profile-info {
+    background: #4e6163;
+    color: #ffffff;
+    padding: 10px;
+    font-family: Arial;
+    text-align: justify;
+}
+
+.profile-card .profile-info h1 {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    padding-bottom: 3px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+.profile-card .profile-info .info-area {
+    padding: 0 10px 5px;
+}
+
+.profile-card .profile-map {
+    border-top: 1px solid #cccccc;
+    float: left;
+    width: 100%;
+}
+.profile-content button{
+    margin-right:3rem;
+    margin-left: 3rem;
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.profile-card .profile-content {
+    background: #ffffff;
+
+    border: 1px solid #cccccc;
+    border-top: none;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.profile-card .profile-content ul li {
+    float: left;
+    padding: 10px 32px;
+    text-align: center;
+    border-right: 1px solid #eeeeee;
+    border-left: 1px solid #ffffff;
+}
+
+.profile-card .profile-content ul li:first-child {
+    border-left: none;
+}
+
+.profile-card .profile-content ul li:last-child {
+    border-right: none;
+}
+
+.profile-card .profile-content ul li .digits {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.profile-info h1{
+    color: white;
+}

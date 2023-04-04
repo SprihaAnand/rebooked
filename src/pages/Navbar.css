@@ -10,17 +10,16 @@ body {
 }
 
 .nav {
-    background-color: rgba(255, 255, 255, 0.77);
-    height: 50px;
+    background-color: #54b687;
+    height: 60px;
     width: 100%;
     /* background-color: #d3dbe4; */
-    color: #333;
+    color: #000000;
     position: relative;
 }
 .nav img{
-    height: 30px;
+    height: 45px;
     width: 50px;
-    background-color: #eee;
     border-radius: 75%;
 }
 
@@ -77,7 +76,7 @@ body {
 
     .nav>.nav-btn>label:hover,
     .nav #nav-check:checked~.nav-btn>label {
-        background-color: #02a487;
+        background-color: #54b687;
     }
 
     .nav>.nav-btn>label>span {
@@ -91,7 +90,7 @@ body {
         position: absolute;
         display: block;
         width: 100%;
-        background-color:#02a487 ;
+        background-color:#54b687 ;
         height: 0px;
         transition: all 0.3s ease-in;
         overflow-y: hidden;

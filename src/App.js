@@ -11,6 +11,10 @@ import Rebook from "./pages/Rebook";
 import Contact from "./pages/Contact";
 import Profile from "./pages/Profile";
 import Organisation from "./pages/Organisation";
+import School from "./pages/School";
+import Donate from "./pages/Donate";
+import OrgUser from "./pages/OrgUser";
+import Wishlist from "./pages/Wishlist";
 
 function App() {
   return (
@@ -25,6 +29,10 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/organisation" element={<Organisation />} />
+        <Route path="/school" element={<School />} />
+        <Route path="/donate" element={<Donate />} />
+        <Route path="/orguser" element={<OrgUser />} />
+        <Route path="/wishlist" element={<Wishlist />} />
       </Routes>
     </BrowserRouter>
   );

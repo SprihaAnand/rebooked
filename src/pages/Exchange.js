@@ -15,7 +15,7 @@ function Exchange() {
               <img src={book1} alt="" />
               <div class="details">
                 <h4>Shadow Born</h4>
-                <h5>Owner: ...</h5>
+                <h5>Owner: Manya</h5>
                 <p>
                   Shadowborn increases the angle at which the Killer can be
                   blinded by FlashliShadowborn increases the angle at which the
@@ -34,7 +34,7 @@ function Exchange() {
               <img src={book2} alt="" />
               <div class="details">
                 <h4>A Women Warrior</h4>
-                <h5>Owner: ...</h5>
+                <h5>Owner: Satvik</h5>
                 <p>
                   The Woman Warrior: Memoirs of a Girlhood Among Ghosts is a
                   book written by Chinese American author Maxine Hong Kingston .
@@ -55,7 +55,7 @@ function Exchange() {
             <img src={book3} alt="" />
             <div class="details">
               <h4>Harry Potter</h4>
-              <h5>Owner: ...</h5>
+              <h5>Owner: Aryan</h5>
               <p>
                 Harry Potter is a series of seven fantasy novels written by
                 British author J. K. Rowling. The novels chronicle the lives of

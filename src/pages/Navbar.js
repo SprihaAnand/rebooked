@@ -25,28 +25,28 @@ function Navbar() {
           <a href="/" alt="">
             Home
           </a>
-          <a href="/about" alt="">
-            About
-          </a>
+
           <a href="/exchange" alt="">
             Exchange
           </a>
           <a href="/rebook" alt="">
             Rebook
           </a>
-          <a href="/" alt="">
+          <a href="/donate" alt="">
             Donate
           </a>
-          <a href="/" alt="">
+          <a href="/school" alt="">
             Schools
-          </a>
-          <a href="/contact" alt="">
-            Contact
           </a>
           <a href="/organisation" alt="">
             Organisations
           </a>
-
+          <a href="/about" alt="">
+            About
+          </a>
+          <a href="/contact" alt="">
+            Contact
+          </a>
           <a href="/signup" alt="">
             LogIn / Register
           </a>

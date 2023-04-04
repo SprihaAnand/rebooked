@@ -1,0 +1,95 @@
+
+.main {
+    width: 100%;
+    margin: 50px auto;
+}
+
+
+.has-search .form-control {
+    padding: 1rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    margin-left: 5%;
+    color: black;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 3.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+
+
+.blue {
+    color: #2a87b3;
+}
+
+.yellow {
+    color: #FFF842;
+}
+
+.container1 th h1 {
+    font-weight: bold;
+    font-size: 1em;
+    padding: 1rem;
+    text-align: left;
+    color:white;
+}
+
+.container1 td {
+    font-weight: normal;
+    font-size: 1em;
+    -webkit-box-shadow: 0 2px 2px -2px #0E1119;
+    -moz-box-shadow: 0 2px 2px -2px #0E1119;
+    box-shadow: 0 2px 2px -2px #556593;
+}
+
+.container1 {
+    text-align: left;
+    overflow: hidden;
+    width: 80%;
+    margin: 0 auto;
+    display: table;
+    padding: 0 0 8em 0;
+}
+
+.container1 td,
+.container1 th {
+    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+.container1 tr:nth-child(odd) {
+    /* background-color: #54b687; */
+    color: white;
+}
+
+.container1 tr:nth-child(even) {
+    /* background-color: #54b687; */
+}
+
+.container1 th {
+    background-color: #43926ca9;
+}
+
+.container1 td:first-child {
+    color: white;
+}
+
+
+@media (max-width: 800px) {
+
+    .container1 td:nth-child(4),
+    .container1 th:nth-child(4) {
+        display: none;
+    }
+}

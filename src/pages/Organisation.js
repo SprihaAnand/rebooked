@@ -41,7 +41,9 @@ function Organisation() {
                 NIT Hamirpur
               </a>
               <br />
-              <button className="ButtonOrg">Join</button>
+              <a href="/orgUser">
+                <button className="ButtonOrg">Join</button>
+              </a>
             </span>
           </div>
         </article>
@@ -74,7 +76,9 @@ function Organisation() {
                 NIT Hamirpur
               </a>
               <br />
-              <button className="ButtonOrg">Join</button>
+              <a href="/orgUser">
+                <button className="ButtonOrg">Join</button>
+              </a>
             </span>
           </div>
         </article>
