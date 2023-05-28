@@ -18,3 +18,7 @@ you can also access our website on github
 # Sustainable Development Goals targeted by us
 </br>
 <b> 1. No Poverty </b>
+* Abject poverty perpetuates a disproportionate level of poverty, leading to ignorance. Especially, in a developing country like India factors like overpopulation, lack of awareness in rural areas and disparity in the availability of resources contribute to exacerbating poverty.
+
+* Our application is one of a kind solution for eradicating poverty. The resources we intend to provide will not only improve their miserable plight but also make their lives more secure. It will ensure that basic amenities are provided free of charge and conveniently at their location. Aids in the form of food, clothing and essentials for survival will allow them to work for their betterment
+
