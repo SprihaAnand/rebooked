@@ -48,3 +48,8 @@ you can also access our website on github
 4. User profiles: The platform would allow users to create profiles and list the books they have available for exchange, buying, or selling. This would help to connect users with other members of the community who are interested in the same books.
 
 5. Search and filter: The platform would allow users to search for specific books or authors and filter results by genre, condition, and price.
+6. School partnerships: The platform would partner with schools and college administration to promote the availability of affordable books to students and to establish institutional policies that support access to books.
+
+7. Reviews and ratings: The platform would allow users to leave reviews and ratings for books and other users, creating a sense of community and helping to promote trust and transparency within the platform.
+
+8. In-app messaging: The platform could include an in-app messaging feature that allows users to communicate with each other about books they are interested in, without having to exchange personal contact information.
