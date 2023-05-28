@@ -37,3 +37,14 @@ you can also access our website on github
 
 ## 🛠️ Techstack
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/android-logo.png" alt="android" width="40" height="40"/> &nbsp <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> &nbsp <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" alt="gcp" width="40" height="40"/> </a> &nbsp <a href="https://cloud.google.com/compute" target="_blank" rel="noreferrer"> <img src="https://media.datacenterdynamics.com/media/images/Google_Compute_Engine_logo2.width-358.png" alt="gcp" width="40" height="40"/> </a> &nbsp <a href="https://en.wikipedia.org/wiki/XML" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/xml-file-2330558-1950399.png" alt="gcp" width="40" height="40"/> </a>
+## 🌟Features of our Application
+
+1. Book exchange: The platform would allow users to exchange books with other members of the community, promoting a sustainable approach to book consumption and reducing the cost of accessing books.
+
+2. Book buying and selling: Users would be able to buy and sell books at affordable prices through the platform, creating a marketplace for secondhand books that is accessible to everyone.
+
+3. Book donation: Users would also be able to donate books to the platform, which can be made available to students who may not have the resources to purchase books on their own.
+
+4. User profiles: The platform would allow users to create profiles and list the books they have available for exchange, buying, or selling. This would help to connect users with other members of the community who are interested in the same books.
+
+5. Search and filter: The platform would allow users to search for specific books or authors and filter results by genre, condition, and price.
