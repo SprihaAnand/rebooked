@@ -104,3 +104,13 @@ This role would be responsible for building and maintaining a sense of community
 6. <b>User feedback:</b></br> After the exchange, users could leave feedback for each other to help other users evaluate the reliability and trustworthiness of different users.
 
 7. <b>Community events:</b></br> The community coordinator could organize community events such as book fairs or book clubs to promote reading and access to affordable books. Users could participate in these events to meet other book enthusiasts and learn about new books and authors.
+8. <b>Platform maintenance:</b></br> The platform administrator would be responsible for maintaining the platform, ensuring that it is operating smoothly and addressing any technical issues that arise. They would also be responsible for enforcing the policies and guidelines for the platform and addressing any concerns or issues raised by users.
+
+## 🎯 Usuage and Functionality of Rebooked
+<h2><b>1.Home Page</b><br></h2>
+After opening the application the first page that is encountered is a Home page which will tell our users about what we do and provide a quick insight.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229867547-072016c0-aa88-4f2d-aa62-744c020faa7b.jpg" width=350dp align="center">
+ 
+ <br>
+<h2><b>2.Sign in / Sign Up Activity</b><br></h2>
