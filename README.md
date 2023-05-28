@@ -21,4 +21,8 @@ you can also access our website on github
 * Abject poverty perpetuates a disproportionate level of poverty, leading to ignorance. Especially, in a developing country like India factors like overpopulation, lack of awareness in rural areas and disparity in the availability of resources contribute to exacerbating poverty.
 
 * Our application is one of a kind solution for eradicating poverty. The resources we intend to provide will not only improve their miserable plight but also make their lives more secure. It will ensure that basic amenities are provided free of charge and conveniently at their location. Aids in the form of food, clothing and essentials for survival will allow them to work for their betterment
+<b> 2. Quality Education </b>
 
+* There are hundreds of millions of children around the world who do not have access to basic education. The majority of poor households spend their income on necessities like food and fuel, and education is marginalized. Moreover, parents who have not received a proper education tend to underestimate the value of education and hesitate to spend money on schools.
+
+* As a result of incorporating education quests in our application we developed an idea for educating those in need. In quest, we strive to enlighten the deprived section's future in a positive manner. They will be able to shape their identities as confident, literate individuals if they are educated and provided with the requisite resources. 
