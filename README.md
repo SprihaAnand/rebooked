@@ -114,3 +114,27 @@ After opening the application the first page that is encountered is a Home page 
  
  <br>
 <h2><b>2.Sign in / Sign Up Activity</b><br></h2>
+Users will be able to login using credentials. In addition, a Google login has been provided so that users can log in directly using their Google account. The same pipeline will automatically register a newly registered user without further Dialog if he or she is not already registered.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229866235-966e4bc5-158a-4e64-820c-de58ec0deb1e.jpg" width=350dp align="center">
+ <br>
+ <img src="https://user-images.githubusercontent.com/97617046/229890201-3e305b64-90f3-4e32-8d55-4ee03f823047.jpg" width=300dp align="center">
+
+ <br>
+ 
+ 
+ <h2><b>3.User Profile Activity</b><br></h2>
+This activity displays all the necessary details of a user, including their name, tagline,wishlist, and role. As part of the volunteer profile, volunteer points have also been added to reward volunteers.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229868207-fe901398-b168-4c28-b51f-40d90203e4a2.jpg" width=350dp align="center">
+ <br>
+ <img src="https://user-images.githubusercontent.com/97617046/229891708-0a7b21de-287e-46de-a8a9-9bf925ddd344.jpg" width=350dp align="center">
+
+
+
+<br>
+
+ <h2><b>4.Exchange Activity</b><br></h2>
+This activity lists every book that one of our users has listed for trade. Each user can connect further by clicking the appropriate item and taking the next step to join the book exchange.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229868975-bbc7ff81-8799-4437-8200-bf64b043198b.jpg" width=350dp align="center">
