@@ -33,3 +33,5 @@ you can also access our website on github
 <b> 3. Reduced Inequalities </b>
 
 * As a result of inequitable resource distribution, poverty has widened the gap between wealthy and poor. Because of inequality, poor people often face discrimination, stigma, and negative social stereotypes that limit their social participation, employment opportunities, and political support.
+* With our application, we will assist those in need while preserving existing resources. In addition, instilling hope in them by informing them about the various schemes and opportunities offered by the government will encourage them to lead a better life. Participation in quests will also enliven social inequality. Having them publicly indulged will disintegrate the intersection of poverty and inequality.
+
