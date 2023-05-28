@@ -26,3 +26,10 @@ you can also access our website on github
 * There are hundreds of millions of children around the world who do not have access to basic education. The majority of poor households spend their income on necessities like food and fuel, and education is marginalized. Moreover, parents who have not received a proper education tend to underestimate the value of education and hesitate to spend money on schools.
 
 * As a result of incorporating education quests in our application we developed an idea for educating those in need. In quest, we strive to enlighten the deprived section's future in a positive manner. They will be able to shape their identities as confident, literate individuals if they are educated and provided with the requisite resources. 
+* Volunteers can contribute in this way regardless of any obstacles they have faced for a long time like being physically handicapped. Along with imparting basic education to the young generation and children, quests will also escalate about serious issues that are in dire need of being addressed. 
+
+
+
+<b> 3. Reduced Inequalities </b>
+
+* As a result of inequitable resource distribution, poverty has widened the gap between wealthy and poor. Because of inequality, poor people often face discrimination, stigma, and negative social stereotypes that limit their social participation, employment opportunities, and political support.
