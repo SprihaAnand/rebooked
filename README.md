@@ -95,3 +95,12 @@ This role would be responsible for building and maintaining a sense of community
 1. <b>User registration:</b></br> Users would register on the platform by providing basic information such as name, email, and contact information. They may also need to verify their account through a confirmation email or phone number.
 
 2. <b>Creating listings:</b></br> Users would then create listings for the books they want to exchange, sell or donate. They would need to provide details such as the book title, author, edition, condition, and price (if applicable). They could also upload photos of the book to help other users evaluate its condition.
+3. <b>Browsing listings:</b></br> Users could browse other users' listings to find books they are interested in. They could search for books based on criteria such as title, author, genre, or location.
+
+4. <b>Contacting other users:</b></br> If a user is interested in a book, they could contact the listing user through the platform's messaging feature. They could negotiate the terms of the exchange, such as the location and time of the exchange, and arrange payment (if applicable).
+
+5. <b>Exchange or donation:</b></br> Users would then exchange or donate the books in person. The platform would not be responsible for the delivery or shipment of the books, as this would be arranged between the users themselves.
+
+6. <b>User feedback:</b></br> After the exchange, users could leave feedback for each other to help other users evaluate the reliability and trustworthiness of different users.
+
+7. <b>Community events:</b></br> The community coordinator could organize community events such as book fairs or book clubs to promote reading and access to affordable books. Users could participate in these events to meet other book enthusiasts and learn about new books and authors.
