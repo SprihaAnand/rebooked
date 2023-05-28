@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rebooked/static/css/main.f9956364.css",
+    "main.js": "/rebooked/static/js/main.dfcdd2a8.js",
+    "static/js/787.d15d95b8.chunk.js": "/rebooked/static/js/787.d15d95b8.chunk.js",
+    "static/media/logo.png": "/rebooked/static/media/logo.c5c4897073e6e3739ea2.png",
+    "static/media/person.jpg": "/rebooked/static/media/person.c91a3b2a03ab11d08fad.jpg",
+    "static/media/rebook3.jpg": "/rebooked/static/media/rebook3.8959e1f749419d2238b8.jpg",
+    "static/media/ExBook3.jpg": "/rebooked/static/media/ExBook3.7d7a55914abec07dbf83.jpg",
+    "static/media/person3.jpg": "/rebooked/static/media/person3.905b838dfe24c2dbb76e.jpg",
+    "static/media/rebook2.jpg": "/rebooked/static/media/rebook2.2e5b5aa2f3b1df56c991.jpg",
+    "static/media/homeCover.png": "/rebooked/static/media/homeCover.49a592812c8af6f73770.png",
+    "static/media/ExBook1.jpg": "/rebooked/static/media/ExBook1.874052f0777bf66cf34b.jpg",
+    "static/media/rebook1.jpeg": "/rebooked/static/media/rebook1.edf053c443afb591dd20.jpeg",
+    "index.html": "/rebooked/index.html",
+    "main.f9956364.css.map": "/rebooked/static/css/main.f9956364.css.map",
+    "main.dfcdd2a8.js.map": "/rebooked/static/js/main.dfcdd2a8.js.map",
+    "787.d15d95b8.chunk.js.map": "/rebooked/static/js/787.d15d95b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9956364.css",
+    "static/js/main.dfcdd2a8.js"
+  ]
+}
