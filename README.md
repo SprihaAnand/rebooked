@@ -86,3 +86,12 @@ This profile type could be assigned to educational institutions that wish to par
 
 <b> 3. Platform administrator </b> </br>
 This role would be responsible for managing and maintaining the platform, ensuring that it is operating smoothly and addressing any technical issues that arise. The platform administrator would also be responsible for setting and enforcing the policies and guidelines for the platform
+<b> 4. Community coordinator </b></br> 
+This role would be responsible for building and maintaining a sense of community among the platform's users, promoting the platform to potential users, and organizing community events such as book fairs and book clubs. The community coordinator would also be responsible for managing user feedback and suggestions, and working with the platform administrator to address any concerns or issues raised by users.
+
+
+## 📌 Workflow
+
+1. <b>User registration:</b></br> Users would register on the platform by providing basic information such as name, email, and contact information. They may also need to verify their account through a confirmation email or phone number.
+
+2. <b>Creating listings:</b></br> Users would then create listings for the books they want to exchange, sell or donate. They would need to provide details such as the book title, author, edition, condition, and price (if applicable). They could also upload photos of the book to help other users evaluate its condition.
