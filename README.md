@@ -53,3 +53,36 @@ you can also access our website on github
 7. Reviews and ratings: The platform would allow users to leave reviews and ratings for books and other users, creating a sense of community and helping to promote trust and transparency within the platform.
 
 8. In-app messaging: The platform could include an in-app messaging feature that allows users to communicate with each other about books they are interested in, without having to exchange personal contact information.
+9. Book wishlist: Users could create a wishlist of books they are interested in, and receive notifications when those books become available for exchange or sale.
+
+10. User verification: To promote trust and safety within the platform, users could be required to verify their identity and address before being able to use the platform.
+
+11. Book recommendations: The platform could use algorithms and user data to provide personalized book recommendations based on the user's interests and past behavior.
+
+12. Social media integration: The platform could integrate with social media platforms to allow users to share their listings and promote the availability of affordable books to their friends and followers.
+
+13. Mobile app: The platform could also be available as a mobile app, allowing users to access the platform on-the-go and making it even easier to access affordable books.
+
+14. Multiple languages: To make the platform more accessible to non-native English speakers, it could be available in multiple languages, with support for translation of book titles and descriptions.
+
+15. Community events: The platform could organize community events, such as book fairs and book clubs, to bring users together in person and promote a sense of community around the shared goal of promoting access to books.
+
+
+
+
+
+
+
+
+ 
+## 📌 Roles
+The application works on three profile roles namely User,organisations,Platform administrator and Community coordinator . The roles in <b>Rebooked</b> are important because they help to ensure that the platform operates effectively and efficiently, while also promoting a sense of community and trust among users.</br>
+
+<b> 1. User </b> </br>
+This is the most basic profile type and would be assigned to anyone who signs up to use the platform. Users would be able to create listings for books they want to exchange, sell or donate, browse other users' listings, and contact other users through the platform's messaging feature.
+
+<b> 2. Organisations </b> </br>
+This profile type could be assigned to educational institutions that wish to participate in the project by donating or exchanging books. Schools or colleges could create a profile for their institution and list the books they have available for donation or exchange. Users could then browse the school or college's listings and request the books they are interested in.
+
+<b> 3. Platform administrator </b> </br>
+This role would be responsible for managing and maintaining the platform, ensuring that it is operating smoothly and addressing any technical issues that arise. The platform administrator would also be responsible for setting and enforcing the policies and guidelines for the platform
