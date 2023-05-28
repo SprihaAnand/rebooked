@@ -138,3 +138,89 @@ This activity displays all the necessary details of a user, including their name
 This activity lists every book that one of our users has listed for trade. Each user can connect further by clicking the appropriate item and taking the next step to join the book exchange.
 <br>
  <img src="https://user-images.githubusercontent.com/97617046/229868975-bbc7ff81-8799-4437-8200-bf64b043198b.jpg" width=350dp align="center">
+<br>
+
+
+ <h2><b>5.Rebook Activity</b><br></h2>
+Every book that has been contributed for the cause is listed in this activity. By selecting the book button next to the desired used item, a user can reserve that item and get the necessary assistance in the form of donations.
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229869396-e1ad6f5e-8b51-4053-a58a-524f3684bd95.jpg" width=350dp align="center">
+ <br>
+  <img src="https://user-images.githubusercontent.com/97617046/229890943-ad0d3f95-3645-4779-bd6c-cc04c65a7a1c.jpg" width=300dp align="center">
+
+<br>
+
+  <img src="https://user-images.githubusercontent.com/97617046/229891115-f2a0d875-f76c-4a55-97c7-229f3773f1b7.jpg" width=300dp align="center">
+
+<br>
+
+
+
+
+
+ <h2><b>6.Donation Page</b><br></h2>
+By following some straightforward instructions, a volunteer or an organisation can contribute books. They must fill out the form, submit a photo, and click the contribute button. There will be active pickup facilities to assist these users in donating.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229870777-063e3673-0dec-42d3-ac3a-dba44faea515.jpg" width=350dp align="center">
+ <br>
+  <img src="https://user-images.githubusercontent.com/97617046/229890755-979eefae-3686-449a-a0a4-51687e34be41.jpg" width=300dp align="center">
+
+
+<br>
+
+ <h2><b>7.Schools Activity</b><br></h2>
+Users can be found by their institution or group. Connect with neighbours, local businesses, schools, and organisations to avoid the time and hassle of online purchases and deliveries. Make contact with neighbours in your area to sell, buy, or trade books.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229891620-57cfde03-6b10-4a14-9fcc-5465af98f638.jpg" width=350dp align="center">
+
+ 
+ 
+ <img src="https://user-images.githubusercontent.com/97617046/229870703-d5c7b9bd-9c4f-4dbd-af46-323ab2682db5.jpg" width=350dp align="center">
+ <br>
+ 
+ 
+ <h2><b>8.Organisation Activity</b><br></h2>
+ <h4>✏️ Organisation activity is divided into 3 subparts -</h4>
+<h3>I) Listed Organisations</h3>
+This page contains a list of all organisations that have been formally registered along with pertinent details like location and contact information. Every user who so chooses may join these organisations and establish connections with other members.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229872511-fe4434dc-46a1-4804-99db-312aff49043c.jpg" width=350dp align=
+"center">
+<br>
+ <img src="https://user-images.githubusercontent.com/97617046/229891471-5a946e10-1465-4949-a11f-61eb9fb42a5b.jpg" width=300dp align=
+"center"><br>
+
+
+
+
+<h3>II)Users in the Organisations</h3>
+A user who joins an organisation can browse all other members of that organisation, as well as their wishlists and user profiles, which detail the items each member has added to their wishlist.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229873283-1d4344e9-f607-47f2-9b06-3d0bb9945852.jpg" width=350dp align=
+"center">
+
+<h3>III)User Wishlist</h3>
+All the books a user has added to their wish list are listed in their user wishlist. Members of the same organisation can view or share books with one another. The purpose of this tool is to save time and money by locating nearby matches.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229874250-1099e798-ef17-40a7-854f-a072d5ede7c0.jpg" width=350dp align=
+"center">
+
+ <h2><b>9.About Us!</b><br></h2>
+Visit this page to learn more about us. From the work we do to the goals we have for this project as a service to the community, these have been and continue to be our driving forces.
+
+
+ <img src="https://user-images.githubusercontent.com/97617046/229876317-8d2ac8bd-e944-4504-842a-e738222cd610.jpg" width=350dp align="center">
+ 
+  <h2><b>10.Contact Us</b><br></h2>
+Want to get in touch with us? Find out more about us, and our contact information, by visiting this page. Send suggestions and feedback.
+
+ <img src="https://user-images.githubusercontent.com/97617046/229877159-2484863c-e385-4b92-966c-240aff3cbd94.jpg" width=350dp align="center">
+
+
+
+
