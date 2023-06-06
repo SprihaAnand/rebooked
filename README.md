@@ -110,15 +110,15 @@ This role would be responsible for building and maintaining a sense of community
 <h2><b>1.Home Page</b><br></h2>
 After opening the application the first page that is encountered is a Home page which will tell our users about what we do and provide a quick insight.
 <br>
- <img src="https://user-images.githubusercontent.com/97617046/229867547-072016c0-aa88-4f2d-aa62-744c020faa7b.jpg" width=350dp align="center">
+ 📸<img src="https://user-images.githubusercontent.com/97617046/229867547-072016c0-aa88-4f2d-aa62-744c020faa7b.jpg" width=350dp align="center">
  
  <br>
 <h2><b>2.Sign in / Sign Up Activity</b><br></h2>
 Users will be able to login using credentials. In addition, a Google login has been provided so that users can log in directly using their Google account. The same pipeline will automatically register a newly registered user without further Dialog if he or she is not already registered.
 <br>
- <img src="https://user-images.githubusercontent.com/97617046/229866235-966e4bc5-158a-4e64-820c-de58ec0deb1e.jpg" width=350dp align="center">
+ 📸<img src="https://user-images.githubusercontent.com/97617046/229866235-966e4bc5-158a-4e64-820c-de58ec0deb1e.jpg" width=350dp align="center">
  <br>
- <img src="https://user-images.githubusercontent.com/97617046/229890201-3e305b64-90f3-4e32-8d55-4ee03f823047.jpg" width=300dp align="center">
+ 📸<img src="https://user-images.githubusercontent.com/97617046/229890201-3e305b64-90f3-4e32-8d55-4ee03f823047.jpg" width=300dp align="center">
 
  <br>
  
