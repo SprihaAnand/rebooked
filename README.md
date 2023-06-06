@@ -150,7 +150,7 @@ Every book that has been contributed for the cause is listed in this activity. B
 
 <br>
 
-  <img src="https://user-images.githubusercontent.com/97617046/229891115-f2a0d875-f76c-4a55-97c7-229f3773f1b7.jpg" width=300dp align="center">
+ 📸 <img src="https://user-images.githubusercontent.com/97617046/229891115-f2a0d875-f76c-4a55-97c7-229f3773f1b7.jpg" width=300dp align="center">
 
 <br>
 
@@ -162,7 +162,7 @@ Every book that has been contributed for the cause is listed in this activity. B
 By following some straightforward instructions, a volunteer or an organisation can contribute books. They must fill out the form, submit a photo, and click the contribute button. There will be active pickup facilities to assist these users in donating.
 
 
- <img src="https://user-images.githubusercontent.com/97617046/229870777-063e3673-0dec-42d3-ac3a-dba44faea515.jpg" width=350dp align="center">
+ 📸<img src="https://user-images.githubusercontent.com/97617046/229870777-063e3673-0dec-42d3-ac3a-dba44faea515.jpg" width=350dp align="center">
  <br>
   <img src="https://user-images.githubusercontent.com/97617046/229890755-979eefae-3686-449a-a0a4-51687e34be41.jpg" width=300dp align="center">
 
@@ -173,11 +173,11 @@ By following some straightforward instructions, a volunteer or an organisation c
 Users can be found by their institution or group. Connect with neighbours, local businesses, schools, and organisations to avoid the time and hassle of online purchases and deliveries. Make contact with neighbours in your area to sell, buy, or trade books.
 
 
- <img src="https://user-images.githubusercontent.com/97617046/229891620-57cfde03-6b10-4a14-9fcc-5465af98f638.jpg" width=350dp align="center">
+📸 <img src="https://user-images.githubusercontent.com/97617046/229891620-57cfde03-6b10-4a14-9fcc-5465af98f638.jpg" width=350dp align="center">
 
  
  
- <img src="https://user-images.githubusercontent.com/97617046/229870703-d5c7b9bd-9c4f-4dbd-af46-323ab2682db5.jpg" width=350dp align="center">
+📸 <img src="https://user-images.githubusercontent.com/97617046/229870703-d5c7b9bd-9c4f-4dbd-af46-323ab2682db5.jpg" width=350dp align="center">
  <br>
  
  
@@ -187,10 +187,10 @@ Users can be found by their institution or group. Connect with neighbours, local
 This page contains a list of all organisations that have been formally registered along with pertinent details like location and contact information. Every user who so chooses may join these organisations and establish connections with other members.
 
 
- <img src="https://user-images.githubusercontent.com/97617046/229872511-fe4434dc-46a1-4804-99db-312aff49043c.jpg" width=350dp align=
+📸 <img src="https://user-images.githubusercontent.com/97617046/229872511-fe4434dc-46a1-4804-99db-312aff49043c.jpg" width=350dp align=
 "center">
 <br>
- <img src="https://user-images.githubusercontent.com/97617046/229891471-5a946e10-1465-4949-a11f-61eb9fb42a5b.jpg" width=300dp align=
+📸 <img src="https://user-images.githubusercontent.com/97617046/229891471-5a946e10-1465-4949-a11f-61eb9fb42a5b.jpg" width=300dp align=
 "center"><br>
 
 
@@ -200,14 +200,14 @@ This page contains a list of all organisations that have been formally registere
 A user who joins an organisation can browse all other members of that organisation, as well as their wishlists and user profiles, which detail the items each member has added to their wishlist.
 
 
- <img src="https://user-images.githubusercontent.com/97617046/229873283-1d4344e9-f607-47f2-9b06-3d0bb9945852.jpg" width=350dp align=
+📸 <img src="https://user-images.githubusercontent.com/97617046/229873283-1d4344e9-f607-47f2-9b06-3d0bb9945852.jpg" width=350dp align=
 "center">
 
 <h3>III)User Wishlist</h3>
 All the books a user has added to their wish list are listed in their user wishlist. Members of the same organisation can view or share books with one another. The purpose of this tool is to save time and money by locating nearby matches.
 
 
- <img src="https://user-images.githubusercontent.com/97617046/229874250-1099e798-ef17-40a7-854f-a072d5ede7c0.jpg" width=350dp align=
+ 📸<img src="https://user-images.githubusercontent.com/97617046/229874250-1099e798-ef17-40a7-854f-a072d5ede7c0.jpg" width=350dp align=
 "center">
 
  <h2><b>9.About Us!</b><br></h2>
