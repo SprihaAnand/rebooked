@@ -126,9 +126,9 @@ Users will be able to login using credentials. In addition, a Google login has b
  <h2><b>3.User Profile Activity</b><br></h2>
 This activity displays all the necessary details of a user, including their name, tagline,wishlist, and role. As part of the volunteer profile, volunteer points have also been added to reward volunteers.
 <br>
- <img src="https://user-images.githubusercontent.com/97617046/229868207-fe901398-b168-4c28-b51f-40d90203e4a2.jpg" width=350dp align="center">
+📸 <img src="https://user-images.githubusercontent.com/97617046/229868207-fe901398-b168-4c28-b51f-40d90203e4a2.jpg" width=350dp align="center">
  <br>
- <img src="https://user-images.githubusercontent.com/97617046/229891708-0a7b21de-287e-46de-a8a9-9bf925ddd344.jpg" width=350dp align="center">
+📸 <img src="https://user-images.githubusercontent.com/97617046/229891708-0a7b21de-287e-46de-a8a9-9bf925ddd344.jpg" width=350dp align="center">
 
 
 
@@ -137,16 +137,16 @@ This activity displays all the necessary details of a user, including their name
  <h2><b>4.Exchange Activity</b><br></h2>
 This activity lists every book that one of our users has listed for trade. Each user can connect further by clicking the appropriate item and taking the next step to join the book exchange.
 <br>
- <img src="https://user-images.githubusercontent.com/97617046/229868975-bbc7ff81-8799-4437-8200-bf64b043198b.jpg" width=350dp align="center">
+ 📸<img src="https://user-images.githubusercontent.com/97617046/229868975-bbc7ff81-8799-4437-8200-bf64b043198b.jpg" width=350dp align="center">
 <br>
 
 
  <h2><b>5.Rebook Activity</b><br></h2>
 Every book that has been contributed for the cause is listed in this activity. By selecting the book button next to the desired used item, a user can reserve that item and get the necessary assistance in the form of donations.
 <br>
- <img src="https://user-images.githubusercontent.com/97617046/229869396-e1ad6f5e-8b51-4053-a58a-524f3684bd95.jpg" width=350dp align="center">
+ 📸<img src="https://user-images.githubusercontent.com/97617046/229869396-e1ad6f5e-8b51-4053-a58a-524f3684bd95.jpg" width=350dp align="center">
  <br>
-  <img src="https://user-images.githubusercontent.com/97617046/229890943-ad0d3f95-3645-4779-bd6c-cc04c65a7a1c.jpg" width=300dp align="center">
+ 📸 <img src="https://user-images.githubusercontent.com/97617046/229890943-ad0d3f95-3645-4779-bd6c-cc04c65a7a1c.jpg" width=300dp align="center">
 
 <br>
 
