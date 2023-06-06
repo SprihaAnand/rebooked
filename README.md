@@ -214,12 +214,12 @@ All the books a user has added to their wish list are listed in their user wishl
 Visit this page to learn more about us. From the work we do to the goals we have for this project as a service to the community, these have been and continue to be our driving forces.
 
 
- <img src="https://user-images.githubusercontent.com/97617046/229876317-8d2ac8bd-e944-4504-842a-e738222cd610.jpg" width=350dp align="center">
+📸 <img src="https://user-images.githubusercontent.com/97617046/229876317-8d2ac8bd-e944-4504-842a-e738222cd610.jpg" width=350dp align="center">
  
   <h2><b>10.Contact Us</b><br></h2>
 Want to get in touch with us? Find out more about us, and our contact information, by visiting this page. Send suggestions and feedback.
 
- <img src="https://user-images.githubusercontent.com/97617046/229877159-2484863c-e385-4b92-966c-240aff3cbd94.jpg" width=350dp align="center">
+ 📸<img src="https://user-images.githubusercontent.com/97617046/229877159-2484863c-e385-4b92-966c-240aff3cbd94.jpg" width=350dp align="center">
 
 
 
