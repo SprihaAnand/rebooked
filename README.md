@@ -6,7 +6,7 @@ We believe that every book has a story to tell, and by sharing these stories, we
 
 ## About Project
 Without a middleman or inventory, we want to build a platform that connects people who want to trade, buy, sell, or donate books. By collaborations with school and college administration, we seek to spread the word about the accessibility of low-cost books and emphasis the value of education and literacy. By making books more accessible and inexpensive, we hope to increase literacy rates and equip kids with the skills they need to excel in the classroom and beyond. Our platform encourages a more ecologically friendly approach to book consumption while being a cost-effective and sustainable means to provide access to books. We intend to reduce waste by enticing people to reuse and recycle books rather than buy new ones encourage everyone to live in a sustainable future.Overall, we are enthusiastic about the project's potential effects, the chance to increase disadvantaged school children' access to affordable books, and the chance to enhance their education. We want to leave a positive legacy that people and communities can take advantage of for years to come.
-<h4> The Video Demonstration for app in use can be seen <a href="">here</a></h4>
+<h4>🎥 The Video Demonstration for app in use can be seen <a href="">here</a></h4>
 
 <h2>Installation :</h2>
 <ul>
