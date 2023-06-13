@@ -1,5 +1,4 @@
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 import React from "react";
 import "./App.css";
 import Home from "./pages/Home";
@@ -16,25 +15,29 @@ import Donate from "./pages/Donate";
 import OrgUser from "./pages/OrgUser";
 import Wishlist from "./pages/Wishlist";
 
+import { HashRouter, Routes, Route } from "react-router-dom";
+
 function App() {
   return (
-    <BrowserRouter>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/signup" element={<SignUp />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/exchange" element={<Exchange />} />
-        <Route path="/rebook" element={<Rebook />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/profile" element={<Profile />} />
-        <Route path="/organisation" element={<Organisation />} />
-        <Route path="/school" element={<School />} />
-        <Route path="/donate" element={<Donate />} />
-        <Route path="/orguser" element={<OrgUser />} />
-        <Route path="/wishlist" element={<Wishlist />} />
-      </Routes>
-    </BrowserRouter>
+    <React.StrictMode>
+      <HashRouter>
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/signup" element={<SignUp />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/exchange" element={<Exchange />} />
+          <Route path="/rebook" element={<Rebook />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/profile" element={<Profile />} />
+          <Route path="/organisation" element={<Organisation />} />
+          <Route path="/school" element={<School />} />
+          <Route path="/donate" element={<Donate />} />
+          <Route path="/orguser" element={<OrgUser />} />
+          <Route path="/wishlist" element={<Wishlist />} />
+        </Routes>
+      </HashRouter>
+    </React.StrictMode>
   );
 }
 

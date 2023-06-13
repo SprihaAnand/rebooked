@@ -10,7 +10,7 @@ function Navbar() {
           <img src={logo} alt="" />
           <div class="nav-title">Rebook</div>
         </div>
-        <a className="profile" href="/profile" alt="">
+        <a className="profile" href="#/profile" alt="">
           Profile
         </a>
         <div class="nav-btn">
@@ -26,28 +26,28 @@ function Navbar() {
             Home
           </a>
 
-          <a href="/exchange" alt="">
+          <a href="#/exchange" alt="">
             Exchange
           </a>
-          <a href="/rebook" alt="">
+          <a href="#/rebook" alt="">
             Rebook
           </a>
-          <a href="/donate" alt="">
+          <a href="#/donate" alt="">
             Donate
           </a>
-          <a href="/school" alt="">
+          <a href="#/school" alt="">
             Schools
           </a>
-          <a href="/organisation" alt="">
+          <a href="#/organisation" alt="">
             Organisations
           </a>
-          <a href="/about" alt="">
+          <a href="#/about" alt="">
             About
           </a>
-          <a href="/contact" alt="">
+          <a href="#/contact" alt="">
             Contact
           </a>
-          <a href="/signup" alt="">
+          <a href="#/signup" alt="">
             LogIn / Register
           </a>
         </div>
