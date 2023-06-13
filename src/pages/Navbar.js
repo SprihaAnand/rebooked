@@ -22,7 +22,7 @@ function Navbar() {
         </div>
 
         <div class="nav-links">
-          <a href="/" alt="">
+          <a href="#/home" alt="">
             Home
           </a>
 
