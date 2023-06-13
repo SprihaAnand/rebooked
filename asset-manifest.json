@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rebooked/static/css/main.f9956364.css",
-    "main.js": "/rebooked/static/js/main.95e235e5.js",
+    "main.js": "/rebooked/static/js/main.62f42a53.js",
     "static/js/787.d15d95b8.chunk.js": "/rebooked/static/js/787.d15d95b8.chunk.js",
     "static/media/logo.png": "/rebooked/static/media/logo.c5c4897073e6e3739ea2.png",
     "static/media/person.jpg": "/rebooked/static/media/person.c91a3b2a03ab11d08fad.jpg",
@@ -14,11 +14,11 @@
     "static/media/rebook1.jpeg": "/rebooked/static/media/rebook1.edf053c443afb591dd20.jpeg",
     "index.html": "/rebooked/index.html",
     "main.f9956364.css.map": "/rebooked/static/css/main.f9956364.css.map",
-    "main.95e235e5.js.map": "/rebooked/static/js/main.95e235e5.js.map",
+    "main.62f42a53.js.map": "/rebooked/static/js/main.62f42a53.js.map",
     "787.d15d95b8.chunk.js.map": "/rebooked/static/js/787.d15d95b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9956364.css",
-    "static/js/main.95e235e5.js"
+    "static/js/main.62f42a53.js"
   ]
 }
